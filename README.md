@@ -12,3 +12,4 @@ ng serve --> run the app
 
 ng test --> run the unit test 
 
+Due to time constraint, ngrx/store partial implemented and unit test as well 
